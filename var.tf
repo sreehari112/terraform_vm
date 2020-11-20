@@ -7,5 +7,5 @@ variable "region" {
 default = "us-east-1"
 }
 variable "count" {
-default = "1"
+default = 1
 }
