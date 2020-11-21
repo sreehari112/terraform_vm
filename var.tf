@@ -9,3 +9,7 @@ default = "us-east-1"
 variable "countt" {
 default = 1
 }
+variable "access"{
+  }
+variable "secret"{
+  }
